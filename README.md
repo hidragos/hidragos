@@ -1,16 +1,30 @@
-### Hi there 👋
-
-<!--
-**hidragos/hidragos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖖 Hi, I’m Dragos
+- 👀 I’m interested in 
+   - 💻 Technology
+      - ⌨️ Senior Full Stack Freelancer
+        - 🎨 Angular
+        - 🎨 NRWL & Nx
+        - 🎨 NativeScript
+        - 🖥 .NET
+        - 🖥 EF Core
+        - 🖥 SQL
+        - 🚀 DevOps
+        - 🚀 Docker
+     - 🔥 Firebase enthusiast
+    - 🧬 Science
+      - 🔬 Interpretation of Quantum Mechanics
+      - 🪐 Astrophysics enthusiast
+- 🌱 I’m currently learning
+  - 📱 Flutter
+ - 🌏 In my free time, I enjoy: 
+    - ☁️ Philosophy
+      - 🙇‍♂️ Hard problem of consciousness
+      - 🌴 Naturalism
+      - 🕉 Advaita Vedanta mindset
+    - 🎵 Music ([Last.fm](https://www.last.fm/user/i_and_eye))
+    - 👨‍🍳 Cooking
+      - 🥬 Vegetarian, Indian, Chinese, Experimental
+    - 🚴‍♂️ Cycling
+    - 📷 Photography
+- 💪 You can contact me for collaborations via my LinkedIn [profile](https://www.linkedin.com/in/dragos-andrei-iliescu-b3005117b/).
+- 👋 You can say hi via email at [hi.dragos.andrei@gmail.com](mailto:hi.dragos.andrei@gmail.com).
