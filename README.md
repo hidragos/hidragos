@@ -1,15 +1,14 @@
 # 🖖 Hi, I'm Dragos
 ## 👀 I'm interested in 
-   - 💻 Technology
-        - 🖥 `Angular`
-        - 🖥 `NativeScript`
-        - 🖥 `NRWL & Nx`
-        - 🛠 `.NET`
-        - 🛠 `EF Core`
-        - 🛠 `SQL`
-        - 🚀 `DevOps`
-        - 🚀 `Docker`
-        - 💻 `UNIX & Windows SysAdmin`
+  - 🖥 `Angular`
+  - 🖥 `NativeScript`
+  - 🖥 `NRWL & Nx`
+  - 🛠 `.NET`
+  - 🛠 `EF Core`
+  - 🛠 `SQL`
+  - 🚀 `DevOps`
+  - 🚀 `Docker`
+  - 💻 `UNIX & Windows SysAdmin`
 ## 🌱 I'm currently learning
   - 📱 `Flutter`
   - 🔥 `Firebase`
