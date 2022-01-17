@@ -11,8 +11,8 @@
         - 🚀 `Docker`
         - 💻 `UNIX & Windows SysAdmin`
 ## 🌱 I'm currently learning
-  - 📱 Flutter
-  - 🔥 Firebase
+  - 📱 `Flutter`
+  - 🔥 `Firebase`
 ## 🌏 In my free time, I enjoy: 
   - 🧬 Science
       - 🔬 Interpretation of Quantum Mechanics
