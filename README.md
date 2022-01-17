@@ -25,5 +25,7 @@
   - ☘️ Cooking
   - 🚴‍♂️ Cycling
   - 📷 Photography
+
+## 📬 Contact
 ### 💪 You can contact me for collaborations via my LinkedIn [profile](https://www.linkedin.com/in/dragos-andrei-iliescu-b3005117b/).
 ### 👋 You can say hi via email at [hi.dragos.andrei@gmail.com](mailto:hi.dragos.andrei@gmail.com).
