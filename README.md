@@ -1,6 +1,8 @@
 # 🖖 Welcome! I'm Dragos
 
-Hi! I'm a passionate developer and a lifelong seeker. As a dedicated full-stack developer who consistently aims to stay ahead in the world of technology, my skill set covers a broad range of tools and frameworks. I strive to craft innovative and efficient solutions while staying up-to-date with the latest industry trends.
+```
+hi there! i'm a passionate developer and a lifelong seeker. as a full-stack developer who consistently aims to stay ahead in the world of technology, my skill set covers a broad range of tools and frameworks. i strive to craft innovative and efficient solutions while staying up-to-date with the latest industry trends.
+```
 
 ## 🔧 My Technical Skills
 
