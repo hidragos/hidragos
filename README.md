@@ -17,13 +17,13 @@ hi there! i'm a passionate developer and a lifelong seeker. as a full-stack deve
 
 ## 🌟 Personal Interests
 
-- 🧪 science: Quantum Mechanics, Astrophysics
-- 📚 philosophy: Consciousness, Naturalism, Advaita Vedanta
-- 🎼 music: Check out my [Last.fm](https://www.last.fm/user/i_and_eye)
+- 🧪 science: `Quantum Mechanics`, `Astrophysics`
+- 📚 philosophy: `Consciousness`, `Naturalism`, `Advaita Vedanta`
+- 🎼 music: [`Last.fm`](https://www.last.fm/user/i_and_eye)
 
 ## 🤝 Let's Connect
 
-- 🌐 linkedin: [Dragos Andrei](https://www.linkedin.com/in/dragos-andrei-iliescu-b3005117b/)
-- 📧 email: [hi.dragos.andrei@gmail.com](mailto:hi.dragos.andrei@gmail.com)
+- 🌐 linkedin: [`Dragos Andrei`](https://www.linkedin.com/in/dragos-andrei-iliescu-b3005117b/)
+- 📧 email: [`hi.dragos.andrei@gmail.com`](mailto:hi.dragos.andrei@gmail.com)
 
 thank you for stopping by. have a great day!
