@@ -7,7 +7,7 @@ hi there! i'm a passionate developer and a lifelong seeker. as a full-stack deve
 - 🖥 frontend: `Angular`, `NativeScript`, `React`, `RxJS`, `TypeScript`
 - 🛠 backend: `.NET`, `EF Core`, `Node.js`, `Express`, `Firebase`
 - 🗃 databases: `SQL Server`, `MongoDB`, `PostgreSQL`, `SQLite`
-- 🚀 devops: `Docker`, `CI/CD`,, `Azure`
+- 🚀 devops: `Docker`, `CI/CD`, `Azure`
 - 💻 sysadmin: `UNIX`, `Windows`, `MacOS`, `shell`, `networking`
 
 ## 🌱 What I'm Learning
