@@ -4,26 +4,26 @@ hi there! i'm a passionate developer and a lifelong seeker. as a full-stack deve
 
 ## 🔧 My Technical Skills
 
-- 🖥 Frontend: `Angular`, `NativeScript`, `React`, `RxJS`, `TypeScript`
-- 🛠 Backend: `.NET`, `EF Core`, `Node.js`, `Express`, `Firebase`
-- 🗃 Databases: `SQL Server`, `MongoDB`, `PostgreSQL`, `SQLite`
-- 🚀 DevOps: `Docker`, `CI/CD`,, `Azure`
-- 💻 SysAdmin: `UNIX`, `Windows`, `MacOS`, `shell`, `networking`
+- 🖥 frontend: `Angular`, `NativeScript`, `React`, `RxJS`, `TypeScript`
+- 🛠 backend: `.NET`, `EF Core`, `Node.js`, `Express`, `Firebase`
+- 🗃 databases: `SQL Server`, `MongoDB`, `PostgreSQL`, `SQLite`
+- 🚀 devops: `Docker`, `CI/CD`,, `Azure`
+- 💻 sysadmin: `UNIX`, `Windows`, `MacOS`, `shell`, `networking`
 
 ## 🌱 What I'm Learning
 
-- 📱 Mobile Development: `Flutter`, `React Native`, `Ionic`
-- ☁️ Cloud Technologies: `Serverless Architecture`, `Microservices`, `AWS`, `GCP`
+- 📱 mobile: `Flutter`, `React Native`, `Ionic`
+- ☁️ cloud: `Serverless Architecture`, `Microservices`, `AWS`, `GCP`
 
 ## 🌟 Personal Interests
 
-- 🧪 Science: Quantum Mechanics, Astrophysics
-- 📚 Philosophy: Consciousness, Naturalism, Advaita Vedanta
-- 🎼 Music: Check out my [Last.fm](https://www.last.fm/user/i_and_eye)
+- 🧪 science: Quantum Mechanics, Astrophysics
+- 📚 philosophy: Consciousness, Naturalism, Advaita Vedanta
+- 🎼 music: Check out my [Last.fm](https://www.last.fm/user/i_and_eye)
 
 ## 🤝 Let's Connect
 
-- 🌐 LinkedIn: [Dragos Andrei](https://www.linkedin.com/in/dragos-andrei-iliescu-b3005117b/)
-- 📧 Email: [hi.dragos.andrei@gmail.com](mailto:hi.dragos.andrei@gmail.com)
+- 🌐 linkedin: [Dragos Andrei](https://www.linkedin.com/in/dragos-andrei-iliescu-b3005117b/)
+- 📧 email: [hi.dragos.andrei@gmail.com](mailto:hi.dragos.andrei@gmail.com)
 
-Thank you for stopping by my GitHub profile. Have a great day!
+thank you for stopping by. have a great day!
