@@ -29,8 +29,8 @@ My skills range from architecting complex microservices systems, implementing us
 
 ## 🤝 Let's Connect
 
-- 🌐 linkedin: [`Dragos Andrei`](https://www.linkedin.com/in/dragos-andrei-iliescu-b3005117b/)
-- 🤓 stack overflow: [`Dragos Andrei`](https://stackoverflow.com/users/11674485/dragos-andrei)
-- 📧 email: [`dragos.andrei.iliescu@gmail.com`](mailto:dragos.andrei.iliescu@gmail.com)
+- 🌐 [`linkedin`](https://www.linkedin.com/in/dragos-andrei-iliescu-b3005117b/)
+- 🤓 [`stack overflow`](https://stackoverflow.com/users/11674485/dragos-andrei)
+- 📧 [`gmail`](mailto:dragos.andrei.iliescu@gmail.com)
   
 thank you for stopping by. have a great day!
