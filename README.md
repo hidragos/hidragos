@@ -1,6 +1,12 @@
 # 🖖 Welcome! I'm Dragos
 
-hi there! i'm a passionate developer and a lifelong seeker. as a full-stack developer who consistently aims to stay ahead in the world of technology, my skill set covers a broad range of tools and frameworks. i strive to craft innovative and efficient solutions while staying up-to-date with the latest industry trends.
+Tldr; I build scalable and maintainable web applications using Angular and .NET.
+
+Hey there! I'm a Full-Stack Software Engineer with proven track record of delivering robust and scalable web applications. With a strong foundation in Angular, .NET, and Azure, I enjoy using my skills to deliver solutions that promote business growth. 
+
+With experience in designing, developing and testing, to deploying, releasing and monitoring of web applications, I have deep knowledge of both technical and strategic elements of the application lifecycle process. 
+
+My skills range from architecting complex microservices systems, implementing user-friendly interfaces, configuring and maintaining DevOps functionality, to project management, sprint planning, requirements gathering and client expectations management.
 
 ## 🔧 My Technical Skills
 
